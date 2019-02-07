@@ -1,1 +1,4 @@
 git init : initialisation du GIT
+git add * : ajouter toute les pages à GIT
+git commit -m "init project" : lance le fichier
+git remote : ou est hérberger le serveur 
